@@ -1,0 +1,20 @@
+.parent-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  height: 20rem;
+  width: 20rem;
+  background-color: aliceblue;
+}
+
+
+.fast-parent-container{
+  display: flex;
+  width: 10rem;
+  height: 10rem;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  background-color: red;
+}
